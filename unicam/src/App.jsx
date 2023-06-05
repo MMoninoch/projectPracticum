@@ -1,9 +1,9 @@
-import Header from './components/Header';
+import Searchbox from './components/Searchbox';
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Searchbox />
     </div>
   );
 }

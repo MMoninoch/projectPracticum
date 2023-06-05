@@ -1,9 +1,12 @@
 import React from "react";
 
-const Header = () => {
-  return;
-  <div>Hello x2</div>;
-  <div>How are you</div>;
+const Searchbox = () => {
+  return (
+    <div>
+      <div>Hello x2</div>
+      <div>How are you</div>
+    </div>
+  );
 };
 
-export default Header;
+export default Searchbox;
